@@ -1,0 +1,61 @@
+ID,Value
+0,Manufacturer
+1,Model
+2,Local Storage Present
+3,Local Storage Type
+4,Total Storage (GB)
+5,Raid
+6,Total RAM (GB)
+7,Burn-in performed?
+8,CPU Model
+9,CPU Speed (Ghz)
+10,Processor Sockets
+11,Processor Cores Per Socket
+12,Network Chipset
+13,Network Port Count
+14,Network Speed (Mb)
+15,Off-load features supported?
+16,Remote Access Enabled
+17,Firmware Version
+18,ESXi Version
+19,ESXi Build
+20,Host Cluster
+21,Hostname
+22,iDRAC Host name / IP Address
+23,Management Network Adapter
+24,VLAN ID
+25,IPv4 Mode
+26,IPv4 Address
+27,IPv4 Subnet Mask
+28,IPv4 Default Gateway
+29,IPv6 Mode
+30,IPv6 Static Address 1
+31,IPv6 Static Address 2
+32,IPv6 Static Address 3
+33,IPv6 Default Gateway
+34,Primary DNS Server
+35,Secondary DNS Server
+36,Custom DNS Suffixes
+37,ESXi root
+38,Used?
+39,Use DHCP
+40,vmVLAN ID
+41,vmIPv4  Address
+42,vmSubnet Mask
+43,vmIPv6 Address
+44,vmSwitch Name
+45,vmvmnic(s)
+46,vmPortgroup
+47,Traffic Type
+48,TCP/IP Stack
+49,Swap file location
+50,Default VM Compatibility
+51,Time Configuration
+52,NTP Service Start Up Policy
+53,NTP Servers
+54,Authentication Services
+55,Domain
+56,Domain service account for domain join
+57,Domain service account password
+58,Using Proxy (IP Address)
+59,Host Profile
